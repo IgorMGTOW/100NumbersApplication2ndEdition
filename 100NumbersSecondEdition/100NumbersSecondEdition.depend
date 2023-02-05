@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675109307 source:d:\my projects\100numberssecondedition\100numberssecondedition.c
+	<stdio.h>
+	<stdlib.h>
+
